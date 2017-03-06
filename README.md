@@ -1,2 +1,8 @@
-# Test-Game
-A Simple Game made in UE4
+# Test Game
+A Simple Game Made in UE4
+
+Genre: Top Down Shooter
+
+Minimum Viable Product (MVP): 
+A Character, 1-2 Enemy Types (with varying A.I.), a Small Arena level, and Menus/UI.
+
