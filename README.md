@@ -1,4 +1,4 @@
-# Test Game
+# Lame Ducks
 A Simple Game Made in UE4
 
 Genre: Top Down Shooter
