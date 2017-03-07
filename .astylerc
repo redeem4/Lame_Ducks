@@ -1,0 +1,10 @@
+--indent-switches
+--pad-oper
+--unpad-paren
+--fill-empty-lines
+--add-brackets
+--indent=tab=4
+-A1
+--align-pointer=type
+--align-reference=type
+--lineend=linux
